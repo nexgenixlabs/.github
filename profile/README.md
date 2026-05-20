@@ -1,6 +1,6 @@
 # NexgenixLabs
 
-Cloud Identity Security & IAM Graph Intelligence
+Cloud identity security, identity graph intelligence, and non-human identity governance.
 
 NexgenixLabs is focused on building next-generation cloud identity security solutions for enterprise environments.
 
